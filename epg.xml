@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="DWIZNewsTV.yt">
+    <display-name lang="en">DWIZ News TV</display-name>
+  </channel>
+  <programme channel="DWIZNewsTV.yt" start="20250825210000 +0100" stop="20250826000000 +0100">
+    <title lang="en">PINOY GISING | AUGUST 26, 2025</title>
+    <desc lang="en">Pinoy Gising kasama sina Daryl Justin at Maine Barretto #DWIZPinoyGising #DWIZ #NagbabalitaNgTamaNaglilingkodNgTama #ALIW23</desc>
+    <icon src="https://i.ytimg.com/vi/hGGmN5vklBY/hqdefault.jpg?v=68acbc90"/>
+  </programme>
+  <programme channel="DWIZNewsTV.yt" start="20250826000000 +0100" stop="20250826030000 +0100">
+    <title lang="en">PINOY GISING | AUGUST 26, 2025</title>
+    <desc lang="en">Pinoy Gising kasama sina Daryl Justin at Maine Barretto #DWIZPinoyGising #DWIZ #NagbabalitaNgTamaNaglilingkodNgTama #ALIW23</desc>
+    <icon src="https://i.ytimg.com/vi/hGGmN5vklBY/hqdefault.jpg?v=68acbc90"/>
+  </programme>
+  <programme channel="DWIZNewsTV.yt" start="20250826030000 +0100" stop="20250826060000 +0100">
+    <title lang="en">PINOY GISING | AUGUST 26, 2025</title>
+    <desc lang="en">Pinoy Gising kasama sina Daryl Justin at Maine Barretto #DWIZPinoyGising #DWIZ #NagbabalitaNgTamaNaglilingkodNgTama #ALIW23</desc>
+    <icon src="https://i.ytimg.com/vi/hGGmN5vklBY/hqdefault.jpg?v=68acbc90"/>
+  </programme>
+  <programme channel="DWIZNewsTV.yt" start="20250826060000 +0100" stop="20250826090000 +0100">
+    <title lang="en">PINOY GISING | AUGUST 26, 2025</title>
+    <desc lang="en">Pinoy Gising kasama sina Daryl Justin at Maine Barretto #DWIZPinoyGising #DWIZ #NagbabalitaNgTamaNaglilingkodNgTama #ALIW23</desc>
+    <icon src="https://i.ytimg.com/vi/hGGmN5vklBY/hqdefault.jpg?v=68acbc90"/>
+  </programme>
+  <programme channel="DWIZNewsTV.yt" start="20250826090000 +0100" stop="20250826120000 +0100">
+    <title lang="en">PINOY GISING | AUGUST 26, 2025</title>
+    <desc lang="en">Pinoy Gising kasama sina Daryl Justin at Maine Barretto #DWIZPinoyGising #DWIZ #NagbabalitaNgTamaNaglilingkodNgTama #ALIW23</desc>
+    <icon src="https://i.ytimg.com/vi/hGGmN5vklBY/hqdefault.jpg?v=68acbc90"/>
+  </programme>
+  <programme channel="DWIZNewsTV.yt" start="20250826120000 +0100" stop="20250826150000 +0100">
+    <title lang="en">PINOY GISING | AUGUST 26, 2025</title>
+    <desc lang="en">Pinoy Gising kasama sina Daryl Justin at Maine Barretto #DWIZPinoyGising #DWIZ #NagbabalitaNgTamaNaglilingkodNgTama #ALIW23</desc>
+    <icon src="https://i.ytimg.com/vi/hGGmN5vklBY/hqdefault.jpg?v=68acbc90"/>
+  </programme>
+  <programme channel="DWIZNewsTV.yt" start="20250826150000 +0100" stop="20250826180000 +0100">
+    <title lang="en">PINOY GISING | AUGUST 26, 2025</title>
+    <desc lang="en">Pinoy Gising kasama sina Daryl Justin at Maine Barretto #DWIZPinoyGising #DWIZ #NagbabalitaNgTamaNaglilingkodNgTama #ALIW23</desc>
+    <icon src="https://i.ytimg.com/vi/hGGmN5vklBY/hqdefault.jpg?v=68acbc90"/>
+  </programme>
+  <programme channel="DWIZNewsTV.yt" start="20250826180000 +0100" stop="20250826210000 +0100">
+    <title lang="en">PINOY GISING | AUGUST 26, 2025</title>
+    <desc lang="en">Pinoy Gising kasama sina Daryl Justin at Maine Barretto #DWIZPinoyGising #DWIZ #NagbabalitaNgTamaNaglilingkodNgTama #ALIW23</desc>
+    <icon src="https://i.ytimg.com/vi/hGGmN5vklBY/hqdefault.jpg?v=68acbc90"/>
+  </programme>
+</tv>

@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="DWIZNewsTV.yt" tvg-name="DWIZ News TV" group-title="Radio", DWIZ News TV
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756178082/ei/QtKsaIyBAoWSkucP6qaKgAM/ip/48.214.55.32/id/hGGmN5vklBY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51548075/txs/51548072%2C51548073%2C51548074%2C51548075%2C51548076%2C51548077/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMw1cavTs9X_zcuyq1YYbTCepdA0LmBRG-BULkh5qbLHZl_f_R1YQvbY3IiL4mDZ3uOU546tQey/spc/l3OVKRLfO3RHU9SeYhruiNq87sUaTW7qd5Havrd15dIu1ISpMSNCUh_EPUBsdBGp160/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51559787%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKsGyCttZA1niSubYVJfydoE3SvURl8Fk5XecaEOQ9yfAiAVDBUUrT98dkYBULS9M3fZc_KOBCCmbXLM3bQu8MFARQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="DZMMTeleRadyo.yt" tvg-name="DZMM TeleRadyo" group-title="Radio", DZMM TeleRadyo
 https://www.youtube.com/watch?v=1oh9IEwBbFY
