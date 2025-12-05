@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="DWIZNewsTV.yt">
+    <display-name lang="en">DWIZ News TV</display-name>
+  </channel>
+  <programme channel="DWIZNewsTV.yt" start="20251205010000 +0000" stop="20251205040000 +0000">
+    <title lang="en">Karambola sa DWIZ |  DECEMBER 5, 2025</title>
+    <desc lang="en">Karambola sa DWIZ kasama sina Jonathan Dela Cruz, Conrad Banal, at Joel Lacsamana#DWIZKarambola #DWIZ #ALIW23 #NagbabalitaNgTamaNaglilingkodNgTama</desc>
+    <icon src="https://i.ytimg.com/vi/Jy6Sl4OM5PU/maxresdefault.jpg?v=6932207c"/>
+  </programme>
+  <programme channel="DWIZNewsTV.yt" start="20251205040000 +0000" stop="20251205070000 +0000">
+    <title lang="en">Karambola sa DWIZ |  DECEMBER 5, 2025</title>
+    <desc lang="en">Karambola sa DWIZ kasama sina Jonathan Dela Cruz, Conrad Banal, at Joel Lacsamana#DWIZKarambola #DWIZ #ALIW23 #NagbabalitaNgTamaNaglilingkodNgTama</desc>
+    <icon src="https://i.ytimg.com/vi/Jy6Sl4OM5PU/maxresdefault.jpg?v=6932207c"/>
+  </programme>
+  <programme channel="DWIZNewsTV.yt" start="20251205070000 +0000" stop="20251205100000 +0000">
+    <title lang="en">Karambola sa DWIZ |  DECEMBER 5, 2025</title>
+    <desc lang="en">Karambola sa DWIZ kasama sina Jonathan Dela Cruz, Conrad Banal, at Joel Lacsamana#DWIZKarambola #DWIZ #ALIW23 #NagbabalitaNgTamaNaglilingkodNgTama</desc>
+    <icon src="https://i.ytimg.com/vi/Jy6Sl4OM5PU/maxresdefault.jpg?v=6932207c"/>
+  </programme>
+  <programme channel="DWIZNewsTV.yt" start="20251205100000 +0000" stop="20251205130000 +0000">
+    <title lang="en">Karambola sa DWIZ |  DECEMBER 5, 2025</title>
+    <desc lang="en">Karambola sa DWIZ kasama sina Jonathan Dela Cruz, Conrad Banal, at Joel Lacsamana#DWIZKarambola #DWIZ #ALIW23 #NagbabalitaNgTamaNaglilingkodNgTama</desc>
+    <icon src="https://i.ytimg.com/vi/Jy6Sl4OM5PU/maxresdefault.jpg?v=6932207c"/>
+  </programme>
+  <programme channel="DWIZNewsTV.yt" start="20251205130000 +0000" stop="20251205160000 +0000">
+    <title lang="en">Karambola sa DWIZ |  DECEMBER 5, 2025</title>
+    <desc lang="en">Karambola sa DWIZ kasama sina Jonathan Dela Cruz, Conrad Banal, at Joel Lacsamana#DWIZKarambola #DWIZ #ALIW23 #NagbabalitaNgTamaNaglilingkodNgTama</desc>
+    <icon src="https://i.ytimg.com/vi/Jy6Sl4OM5PU/maxresdefault.jpg?v=6932207c"/>
+  </programme>
+  <programme channel="DWIZNewsTV.yt" start="20251205160000 +0000" stop="20251205190000 +0000">
+    <title lang="en">Karambola sa DWIZ |  DECEMBER 5, 2025</title>
+    <desc lang="en">Karambola sa DWIZ kasama sina Jonathan Dela Cruz, Conrad Banal, at Joel Lacsamana#DWIZKarambola #DWIZ #ALIW23 #NagbabalitaNgTamaNaglilingkodNgTama</desc>
+    <icon src="https://i.ytimg.com/vi/Jy6Sl4OM5PU/maxresdefault.jpg?v=6932207c"/>
+  </programme>
+  <programme channel="DWIZNewsTV.yt" start="20251205190000 +0000" stop="20251205220000 +0000">
+    <title lang="en">Karambola sa DWIZ |  DECEMBER 5, 2025</title>
+    <desc lang="en">Karambola sa DWIZ kasama sina Jonathan Dela Cruz, Conrad Banal, at Joel Lacsamana#DWIZKarambola #DWIZ #ALIW23 #NagbabalitaNgTamaNaglilingkodNgTama</desc>
+    <icon src="https://i.ytimg.com/vi/Jy6Sl4OM5PU/maxresdefault.jpg?v=6932207c"/>
+  </programme>
+  <programme channel="DWIZNewsTV.yt" start="20251205220000 +0000" stop="20251206010000 +0000">
+    <title lang="en">Karambola sa DWIZ |  DECEMBER 5, 2025</title>
+    <desc lang="en">Karambola sa DWIZ kasama sina Jonathan Dela Cruz, Conrad Banal, at Joel Lacsamana#DWIZKarambola #DWIZ #ALIW23 #NagbabalitaNgTamaNaglilingkodNgTama</desc>
+    <icon src="https://i.ytimg.com/vi/Jy6Sl4OM5PU/maxresdefault.jpg?v=6932207c"/>
+  </programme>
+</tv>
